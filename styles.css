@@ -75,7 +75,7 @@ header nav ul li a:hover {
 #hero-text {
     font-size: 100px; /* Increased font size */
     font-weight: bold;
-    font-family: 'Futura Heavy', cursive; /* Added cursive for glow consistency */
+    font-family: Futura Heavy; /* Added cursive for glow consistency */
     letter-spacing: 5px;
     line-height: 1.2;
     max-width: 900px; /* Slightly larger width */
